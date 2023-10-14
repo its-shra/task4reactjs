@@ -1,0 +1,12 @@
+.Full{
+    background-color: black;
+    color: white;
+}
+
+.table{
+    border: solid 2px white;
+}
+
+.row{
+    border-bottom: solid 2px white;
+}
